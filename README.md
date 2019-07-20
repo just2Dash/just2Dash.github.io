@@ -1,1 +1,1 @@
-# just2Dash.github.io
+# hexo静态博客
